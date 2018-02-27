@@ -169,7 +169,7 @@ func main() {
 
 	fmt.Println("# Changelog")
 	fmt.Println("")
-	fmt.Println("Items starting with `DEPRECATE` are important deprecation notices. For more\ninformation on the list of deprecated flags and APIs please have a look at\nhttps://docs.docker.com/engine/deprecated/ where target removal dates can also\nbe found.")
+	fmt.Println("For more information on the list of deprecated flags and APIs, have a look at\nhttps://docs.docker.com/engine/deprecated/ where you can find the target removal dates")
 	fmt.Println("")
 	fmt.Println("##", os.Args[1])
 
